@@ -11,3 +11,4 @@ unstructured
 pillow==10.2.0
 matplotlib==3.8.2
 wikipedia
+faiss-cpu
